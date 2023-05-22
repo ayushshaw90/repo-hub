@@ -33,4 +33,4 @@ npm install
 npm run dev
 ```
 
-Next, the development server starts and the link is displayed.
+Next, the development server starts and the link is displayed in the terminal.
