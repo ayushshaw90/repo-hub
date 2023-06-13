@@ -1,0 +1,16 @@
+{
+  "short_name": "RepoHub",
+  "name": "Repo Hub - Github repository tracker",
+  "icons": {
+    "16": "source-code.png",
+    "48": "source-code.png",
+   "128": "source-code.png"
+  },
+  "permissions": [],
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Repo Hub"
+  }
+}
